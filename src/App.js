@@ -45,7 +45,7 @@ export default function ZevloLogisticsLandingPage() {
             <ul>
               <li><a href="#home" onClick={() => setMobileMenuOpen(false)}>Home</a></li>
               <li><a href="#features" onClick={() => setMobileMenuOpen(false)}>Features</a></li>
-              <li><a href="#how-it-works" onClick={() => setMobileMenuOpen(false)}>How It Works</a></li>
+              {/* <li><a href="#how-it-works" onClick={() => setMobileMenuOpen(false)}>How It Works</a></li> */}
               <li><a href="#faq" onClick={() => setMobileMenuOpen(false)}>FAQ</a></li>
               <li><a href="#contact" onClick={() => setMobileMenuOpen(false)}>Contact</a></li>
               <li><a href="#download">Download App</a></li>
